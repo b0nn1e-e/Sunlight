@@ -1,14 +1,14 @@
 # Booting the Library
-\```lua
+```lua
 local Sunlight = require()
-\```
+```
 
 # Making a Window
-\```lua
+```lua
 local Window = Sunlight:MakeWindow(Sunlight, Name)
-\```
+```
 
 # Making a Section
-\```lua
+```lua
 local Section = Sunlight:CreateSection(Window, Name)
-\```
+```
