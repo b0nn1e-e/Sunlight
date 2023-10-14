@@ -5,7 +5,7 @@ local Sunlight = require()
 
 # Making a Window
 ```lua
-local Window = Sunlight:MakeWindow(Sunlight, Name)
+local Window = Sunlight:MakeWindow(Name)
 ```
 
 # Making a Section
